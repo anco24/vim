@@ -1,4 +1,4 @@
-"vimrc v0.6
+"vimrc v0.7
 
 filetype plugin on
 
