@@ -1,4 +1,5 @@
-"vimrc v0.5
+"vimrc v0.6
+
 filetype plugin on
 
 "has("vim_starting")は起動時にのみ真を返す
